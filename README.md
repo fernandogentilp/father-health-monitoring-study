@@ -1,0 +1,2 @@
+# father-health-monitoring-study
+Basicamente esse é um estudo de caso, que usei análise de dados, com plotagem de gráficos e um pequeno treinamento de modelo baseado em Regressão Linear, para estudo de caso das percentagens da saúde do meu pai, usando seus exames como base para essas análises. Como sou totalmente iniciante nesse assunto de IA/Análise de Dados,.
